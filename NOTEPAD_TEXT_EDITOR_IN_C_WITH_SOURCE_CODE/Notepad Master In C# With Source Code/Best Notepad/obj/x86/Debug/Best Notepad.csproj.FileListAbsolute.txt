@@ -1,0 +1,11 @@
+E:\Projects for code-projects\new\c# projects\Best-Notepad-master\Best Notepad\bin\Debug\Best Notepad.exe
+E:\Projects for code-projects\new\c# projects\Best-Notepad-master\Best Notepad\bin\Debug\Best Notepad.pdb
+E:\Projects for code-projects\new\c# projects\Best-Notepad-master\Best Notepad\obj\x86\Debug\Best Notepad.csprojAssemblyReference.cache
+E:\Projects for code-projects\new\c# projects\Best-Notepad-master\Best Notepad\obj\x86\Debug\Best_Notepad.notepad1.resources
+E:\Projects for code-projects\new\c# projects\Best-Notepad-master\Best Notepad\obj\x86\Debug\Best_Notepad.Login.resources
+E:\Projects for code-projects\new\c# projects\Best-Notepad-master\Best Notepad\obj\x86\Debug\Best_Notepad.Properties.Resources.resources
+E:\Projects for code-projects\new\c# projects\Best-Notepad-master\Best Notepad\obj\x86\Debug\Best_Notepad.SpeechForm.resources
+E:\Projects for code-projects\new\c# projects\Best-Notepad-master\Best Notepad\obj\x86\Debug\Best Notepad.csproj.GenerateResource.cache
+E:\Projects for code-projects\new\c# projects\Best-Notepad-master\Best Notepad\obj\x86\Debug\Best Notepad.csproj.CoreCompileInputs.cache
+E:\Projects for code-projects\new\c# projects\Best-Notepad-master\Best Notepad\obj\x86\Debug\Best Notepad.exe
+E:\Projects for code-projects\new\c# projects\Best-Notepad-master\Best Notepad\obj\x86\Debug\Best Notepad.pdb
